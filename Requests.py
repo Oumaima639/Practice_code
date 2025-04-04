@@ -11,7 +11,7 @@ import sqlite3 #for creating the database instance
 
 db_name='Movies.db'
 table_name = 'Top_50'
-csv_path = r"C:\Users\ZD449RK\PycharmProjects\pythonProject7\Top_50_films.csv"
+csv_path = r"C:\Users\**\Top_50_films.csv"
 df=pd.DataFrame(columns=['Average rank','Film','Year'])
 count=0
 
